@@ -1,6 +1,8 @@
 import'./App.css';
 import axios from "axios";
 import Loader from "react-loader-spinner";
+import Search from "./Search";
+import Current from "./Current";
 
 export default function App(props) {
   function handleResponse(response){
