@@ -10,9 +10,7 @@ const root = createRoot(rootElement);
 root.render(
   <StrictMode>
     <div className="container">
-      <Search />
       <App />
-      <Current />
     </div>
   </StrictMode>
 );
