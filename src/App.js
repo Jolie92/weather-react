@@ -20,7 +20,7 @@ export default function App(props) {
 }
 <p class="footer">
   This project is coded by <strong>Laura Loriga</strong>
-  <a class="githubLink" href="" target="_blank">
+  <a class="githubLink" href="https://github.com/Jolie92/weather-react" target="_blank">
     GitHub{" "}
   </a>
 </p>;
