@@ -14,9 +14,9 @@ root.render(
       
     </div>
  <p class="footer">
-  This project is coded by <strong>Laura Loriga</strong>
-  <a class="githubLink" href="https://github.com/Jolie92/weather-react">
-    GitHub{" "}
+  This project is coded by <strong> Laura Loriga </strong>
+   <a class="githubLink" href="https://github.com/Jolie92/weather-react">
+      GitHub {" "}
   </a>
 </p>
   </StrictMode>
